@@ -1,5 +1,5 @@
 # Tasks List:
-<br>
+
 [Task 1](/task1) <br>
 [Task 2](/task2) <br>
 [Task 3](/task3) <br>
